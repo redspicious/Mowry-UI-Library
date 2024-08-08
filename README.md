@@ -1,2 +1,4 @@
 # Mowry-UI-Library
-UI Library for roblox.
+Mowry Library is a library designed specifically for Roblox. To get started, visit the documentation website, which provides detailed explanations on how to implement and use Mowry Library.
+
+{website}
